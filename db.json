@@ -1,0 +1,122 @@
+{
+  "login": {
+    "token": "randomtoken1234",
+    "user": {
+      "name": "Emmanuel",
+      "lastname": "Pericon",
+      "email": "emmanuel@email.com"
+    }
+  },
+  "users": [
+    {
+      "id": "4",
+      "name": "Brian",
+      "lastname": "Pericon",
+      "email": "brian@email.com"
+    },
+    {
+      "id": "20",
+      "name": "Homero",
+      "lastname": "Simpson",
+      "email": "homero.simpson@email.com"
+    },
+    {
+      "id": "40",
+      "name": "Bart",
+      "lastname": "Simpson",
+      "email": "bart.simpson@email.com"
+    },
+    {
+      "id": "92",
+      "name": "Marge",
+      "lastname": "Simpson",
+      "email": "marge.simpson@email.com"
+    },
+    {
+      "id": "68",
+      "name": "Lisa",
+      "lastname": "Simpson",
+      "email": "lisa.simpson@email.com"
+    },
+    {
+      "id": "39",
+      "name": "Magui",
+      "lastname": "Simpson",
+      "email": "magui.simpson@email.com"
+    }
+  ],
+  "items": [
+    {
+      "price": 100,
+      "description": "Item 1",
+      "id": "0",
+      "code": "VVV-0000-123"
+    },
+    {
+      "price": 200,
+      "description": "Item 2",
+      "id": "1",
+      "code": "VVV-0001-123"
+    },
+    {
+      "price": 500,
+      "description": "Item 3",
+      "id": "2",
+      "code": "VVV-0002-123"
+    },
+    {
+      "price": 100,
+      "description": "Item 4",
+      "id": "3",
+      "code": "VVV-0003-123"
+    },
+    {
+      "price": 200,
+      "description": "Item 5",
+      "id": "4",
+      "code": "VVV-0004-123"
+    },
+    {
+      "price": 500,
+      "description": "Item 6",
+      "id": "5",
+      "code": "VVV-0005-123"
+    },
+    {
+      "price": 100,
+      "description": "Item 7",
+      "id": "6",
+      "code": "VVV-0006-123"
+    },
+    {
+      "price": 200,
+      "description": "Item 8",
+      "id": "7",
+      "code": "VVV-0007-123"
+    },
+    {
+      "price": 500,
+      "description": "Item 9",
+      "id": "8",
+      "code": "VVV-0008-123"
+    },
+    {
+      "price": 500,
+      "description": "Item 10",
+      "id": "9",
+      "code": "VVV-0009-123"
+    }
+  ],
+  "times": {
+    "items": [
+      {
+        "id": "0",
+        "time": 4
+      },
+      {
+        "id": "3",
+        "time": 3
+      }
+    ]
+  }
+}
